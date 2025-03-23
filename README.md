@@ -9,4 +9,4 @@ How to Build and Run
 If you want to close the project window, input 'Q' to close the OpenGL Viewer window and input any key to close the command window.
 <br><br>
 Result Screenshot
-![Screenshot](https://github.com/user-attachments/assets/141594b8-48fd-4688-8f0a-74f9f99d334d)
+![Screenshot](https://github.com/user-attachments/assets/0c481204-4d04-446f-9459-c1c6be8fd7b9)
